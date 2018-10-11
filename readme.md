@@ -22,7 +22,7 @@ About this section. Optional. Keep this short and focus on the list.
 - [Growstuff](https://github.com/Growstuff/growstuff) - Open data project for small-scale food growers.
 - [myfood-app](https://github.com/MickaelGandecki/myfood-app) - Smart Greenhouse Management.
 - [dominosjp](https://github.com/inket/dominosjp) - Domino's Pizza Japan CLI.
-- [pizzadash](https://github.com/bhberson/pizzadash) - This is a node.js application that "hacks" your Amazon Dash Button to order you a Domino's pizza.
+- [pizzadash](https://github.com/bhberson/pizzadash) - This is a Node.js application that "hacks" your Amazon Dash Button to order you a Domino's pizza.
 
 ## API for Food services
 
