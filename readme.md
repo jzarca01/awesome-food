@@ -23,6 +23,7 @@ About this section. Optional. Keep this short and focus on the list.
 - [myfood-app](https://github.com/MickaelGandecki/myfood-app) - Smart Greenhouse Management.
 - [dominosjp](https://github.com/inket/dominosjp) - Domino's Pizza Japan CLI.
 - [pizzadash](https://github.com/bhberson/pizzadash) - This is a Node.js application that "hacks" your Amazon Dash Button to order you a Domino's pizza.
+- [fetch-my-whopper](https://github.com/jzarca01/fetch-my-whopper) - Node app to claim your free whopper at Burger King.
 
 ## API for Food services
 
