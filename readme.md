@@ -7,23 +7,33 @@
 ## Contents
 
 - [Food related projects](#food-related-projects)
+- [Cookbooks](#cookbooks)
 - [API for Food services](#api-for-food-services)
   - [Only available for French market](#only-available-for-french-market)
 - [Sport nutrition](#sport-nutrition)
 
+
 ## Food related projects
 
-About this section. Optional. Keep this short and focus on the list.
-
 - [is-vegan](https://github.com/hmontazeri/is-vegan) - Is-Vegan helps you to find out which food ingredients are vegan / non-vegan.
-- [the-bread-code](https://github.com/hendricius/the-bread-code) - Learn how to master the art of baking the programmer way.
-- [1337-Noms-The-Hacker-Cookbook](https://github.com/DEAD10C5/1337-Noms-The-Hacker-Cookbook) - The goal of this repo is to collect recipes for an eclectic mix of dishes from around the hacker community.
 - [FoodTrucks](https://github.com/prakhar1989/FoodTrucks) - San Francisco's finger-licking street food now at your fingertips.
 - [Growstuff](https://github.com/Growstuff/growstuff) - Open data project for small-scale food growers.
 - [myfood-app](https://github.com/MickaelGandecki/myfood-app) - Smart Greenhouse Management.
 - [dominosjp](https://github.com/inket/dominosjp) - Domino's Pizza Japan CLI.
 - [pizzadash](https://github.com/bhberson/pizzadash) - This is a Node.js application that "hacks" your Amazon Dash Button to order you a Domino's pizza.
 - [fetch-my-whopper](https://github.com/jzarca01/fetch-my-whopper) - Node app to claim your free whopper at Burger King.
+- [fetch-my-cookie](https://github.com/jzarca01/fetch-my-cookie) - Node app to claim your free cookie at Subway.
+- [whoffer](https://github.com/jzarca01/whoffer) - React Native OCR app to claim free cookie at Subway.
+- [Food-Recipe-CNN](https://github.com/Murgio/Food-Recipe-CNN) - DeepChef : Classification of Cooking Dishes with Machine Learning.
+- [TooManyChefs](https://github.com/navignaw/TooManyChefs) - A text-based cooperative cooking game.
+
+
+## Cookbooks
+
+- [the-bread-code](https://github.com/hendricius/the-bread-code) - Learn how to master the art of baking the programmer way.
+- [1337-Noms-The-Hacker-Cookbook](https://github.com/DEAD10C5/1337-Noms-The-Hacker-Cookbook) - The goal of this repo is to collect recipes for an eclectic mix of dishes from around the hacker community.
+- [Vegan-chocolate-seduction-cookbook](https://github.com/the-domains/vegan-chocolate-seduction-cookbook) - Several great vegan chocolate recipes.
+
 
 ## API for Food services
 
@@ -37,14 +47,17 @@ About this section. Optional. Keep this short and focus on the list.
 - [node-mcdofrance](https://github.com/jzarca01/node-mcdofrance) - API for McDonald's France.
 - [FoodtttruckAPI](https://github.com/jzarca01/FoodtttruckAPI.git) - An unofficial tttruck.com API to find foodtrucks.
 
+
 ## Sport nutrition
 
 - [fitness](https://github.com/jamesflorentino/fitness) - Some of @jamesflorentino mumbo jumbo about training and nutrition. Take them with a grain of salt.
 - [affordable-whey](https://github.com/prkeshri/affordable-whey) - Can be used to calculate out of a few available Whey proteins. which one is most affordable in terms of Cost per Serving. Also gives. total servings.
 
+
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+
 
 ## License
 
