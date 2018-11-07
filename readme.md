@@ -26,6 +26,8 @@
 - [whoffer](https://github.com/jzarca01/whoffer) - React Native OCR app to claim free cookie at Subway.
 - [Food-Recipe-CNN](https://github.com/Murgio/Food-Recipe-CNN) - DeepChef : Classification of Cooking Dishes with Machine Learning.
 - [TooManyChefs](https://github.com/navignaw/TooManyChefs) - A text-based cooperative cooking game.
+- [Auto-Soylent](https://github.com/nick/auto-soylent) - Automatic Soylent recipe generator.
+- [Genetic-Soylent](https://github.com/nick/genetic-soylent) - This project generates soylent recipes based on genetic algorithms.
 
 
 ## Cookbooks
@@ -33,6 +35,9 @@
 - [the-bread-code](https://github.com/hendricius/the-bread-code) - Learn how to master the art of baking the programmer way.
 - [1337-Noms-The-Hacker-Cookbook](https://github.com/DEAD10C5/1337-Noms-The-Hacker-Cookbook) - The goal of this repo is to collect recipes for an eclectic mix of dishes from around the hacker community.
 - [Vegan-chocolate-seduction-cookbook](https://github.com/the-domains/vegan-chocolate-seduction-cookbook) - Several great vegan chocolate recipes.
+- [food-recipes](https://github.com/obfuscurity/food-recipes) - Honest-to-goodness "real food" recipes.
+- [recipes](https://github.com/bzimmerman/recipes) - This repository contains tasty open-source recipes.
+- [tacofancy](https://github.com/sinker/tacofancy) - Community-driven taco repo. stars stars stars.
 
 
 ## API for Food services
