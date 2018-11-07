@@ -28,6 +28,7 @@
 - [TooManyChefs](https://github.com/navignaw/TooManyChefs) - A text-based cooperative cooking game.
 - [Auto-Soylent](https://github.com/nick/auto-soylent) - Automatic Soylent recipe generator.
 - [Genetic-Soylent](https://github.com/nick/genetic-soylent) - This project generates soylent recipes based on genetic algorithms.
+- [hasgluten](https://github.com/hasgluten/hasgluten) - Quick and Accurate Gluten-Free Foods List.
 
 
 ## Cookbooks
@@ -38,6 +39,7 @@
 - [food-recipes](https://github.com/obfuscurity/food-recipes) - Honest-to-goodness "real food" recipes.
 - [recipes](https://github.com/bzimmerman/recipes) - This repository contains tasty open-source recipes.
 - [tacofancy](https://github.com/sinker/tacofancy) - Community-driven taco repo. stars stars stars.
+- [cookbook](https://github.com/jlinder/cookbook) - Delicious food. Mostly wheat or gluten free.
 
 
 ## API for Food services
