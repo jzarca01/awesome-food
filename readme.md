@@ -53,6 +53,8 @@
 - [node-nestor](https://github.com/jzarca01/node-nestor) - Nestor API wrapper for Node.js.
 - [node-mcdofrance](https://github.com/jzarca01/node-mcdofrance) - API for McDonald's France.
 - [FoodtttruckAPI](https://github.com/jzarca01/FoodtttruckAPI.git) - An unofficial tttruck.com API to find foodtrucks.
+- [node-dominos-france](https://github.com/jzarca01/node-dominos-france.git) - Une API pour l'app Promos de Domino's Pizza.
+- [node-kebab](https://github.com/jzarca01/node-kebab) - Un wrapper d'API pour kebab-frites.info .
 
 
 ## Sport nutrition
