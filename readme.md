@@ -39,6 +39,7 @@
 - [tacofancy](https://github.com/sinker/tacofancy) - Community-driven taco repo. stars stars stars.
 - [cookbook](https://github.com/jlinder/cookbook) - Delicious food. Mostly wheat or gluten free.
 - [pizza-dough](https://github.com/hendricius/pizza-dough) - This recipe is dedicated to helping you make the best possible pizza dough for Neapolitan pizza.
+- [mozzarella](https://github.com/hendricius/mozzarella) - Learn how to make homemade mozzarella.
 
 ## API for Food services
 
