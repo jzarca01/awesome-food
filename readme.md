@@ -12,7 +12,6 @@
   - [Only available for French market](#only-available-for-french-market)
 - [Sport nutrition](#sport-nutrition)
 
-
 ## Food related projects
 
 - [is-vegan](https://github.com/hmontazeri/is-vegan) - Is-Vegan helps you to find out which food ingredients are vegan / non-vegan.
@@ -30,7 +29,6 @@
 - [Genetic-Soylent](https://github.com/nick/genetic-soylent) - This project generates soylent recipes based on genetic algorithms.
 - [hasgluten](https://github.com/hasgluten/hasgluten) - Quick and Accurate Gluten-Free Foods List.
 
-
 ## Cookbooks
 
 - [the-bread-code](https://github.com/hendricius/the-bread-code) - Learn how to master the art of baking the programmer way.
@@ -40,7 +38,7 @@
 - [recipes](https://github.com/bzimmerman/recipes) - This repository contains tasty open-source recipes.
 - [tacofancy](https://github.com/sinker/tacofancy) - Community-driven taco repo. stars stars stars.
 - [cookbook](https://github.com/jlinder/cookbook) - Delicious food. Mostly wheat or gluten free.
-
+- [pizza-dough](https://github.com/hendricius/pizza-dough) - This recipe is dedicated to helping you make the best possible pizza dough for Neapolitan pizza.
 
 ## API for Food services
 
@@ -56,17 +54,14 @@
 - [node-dominos-france](https://github.com/jzarca01/node-dominos-france.git) - Une API pour l'app Promos de Domino's Pizza.
 - [node-kebab](https://github.com/jzarca01/node-kebab) - Un wrapper d'API pour kebab-frites.info .
 
-
 ## Sport nutrition
 
 - [fitness](https://github.com/jamesflorentino/fitness) - Some of @jamesflorentino mumbo jumbo about training and nutrition. Take them with a grain of salt.
 - [affordable-whey](https://github.com/prkeshri/affordable-whey) - Can be used to calculate out of a few available Whey proteins. which one is most affordable in terms of Cost per Serving. Also gives. total servings.
 
-
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
-
 
 ## License
 
