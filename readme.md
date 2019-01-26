@@ -1,18 +1,18 @@
-# awesome-food [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Food [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of food related projects on GitHub
+> A curated list of food-related projects on GitHub
 
-![Awesome-food](awesome_food.png)
+![Awesome Food](awesome_food.png)
 
 ## Contents
 
-- [Food related projects](#food-related-projects)
+- [Food-related projects](#food-related-projects)
 - [Cookbooks](#cookbooks)
 - [API for Food services](#api-for-food-services)
   - [Only available for French market](#only-available-for-french-market)
 - [Sport nutrition](#sport-nutrition)
 
-## Food related projects
+## Food-related projects
 
 - [is-vegan](https://github.com/hmontazeri/is-vegan) - Is-Vegan helps you to find out which food ingredients are vegan / non-vegan.
 - [FoodTrucks](https://github.com/prakhar1989/FoodTrucks) - San Francisco's finger-licking street food now at your fingertips.
