@@ -44,6 +44,7 @@
 ## API for Food services
 
 - [node-deliveroo](https://github.com/jzarca01/node-deliveroo) - Unofficial Node API for Deliveroo.
+- [tacofancy-api](https://github.com/evz/tacofancy-api) - An API for the repo Tacofancy.
 
 ### Only available for French market
 
