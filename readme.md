@@ -45,6 +45,10 @@
 
 - [node-deliveroo](https://github.com/jzarca01/node-deliveroo) - Unofficial Node API for Deliveroo.
 - [tacofancy-api](https://github.com/evz/tacofancy-api) - An API for the repo Tacofancy.
+- [Spoonacular](https://spoonacular.com/food-api) -
+  Spoonacular offers its food parsing, matching, and searching technology for businesses and developers to create outstanding applications.
+- [Edamam](https://developer.edamam.com/) - API developer portal for Nutrition Analysis, Food Database Lookup, Recipe Search API and others.
+- [RecipePuppy](http://www.recipepuppy.com/about/api/) - This api lets you search through recipe puppy database of over a million recipes by keyword and/or by search query.
 
 ### Only available for French market
 
