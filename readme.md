@@ -2,8 +2,6 @@
 
 > A curated list of food-related projects on GitHub
 
-![Awesome Food](awesome_food.png)
-
 ## Contents
 
 - [Food-related projects](#food-related-projects)
