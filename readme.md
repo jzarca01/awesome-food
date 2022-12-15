@@ -59,7 +59,8 @@
 
 ## Addresses
 
-- [awesome-kacchi](https://github.com/s4kibs4mi/awesome-kacchi) - A curated list of awesome Kacchi Biryani available throughout the world. 
+- [awesome-kacchi](https://github.com/s4kibs4mi/awesome-kacchi) - A curated list of awesome Kacchi Biryani available throughout the world.
+- [awesome-berlin](https://github.com/AwesomeCities/awesome-berlin) - A curated list of Berlin's awesomeness.
 - [Berlín para mexicanos](https://github.com/carlosyslas/berlin-para-mexicanos) - Berlin guide for mexicans. 
 
 ## API for Food services
