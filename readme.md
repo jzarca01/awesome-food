@@ -11,6 +11,7 @@
 - [API for Food services](#api-for-food-services)
   - [Only available for French market](#only-available-for-french-market)
 - [Sport nutrition](#sport-nutrition)
+- [Plant-Based / Vegan](#plant-based--vegan)
 - [Things to read](#things-to-read)
   - [Books](#books)
   - [Forums and chat groups](#forums-and-chat-groups)
@@ -18,6 +19,7 @@
 - [Videos](#videos)
   - [Italian cuisine](#italian-cuisine)
   - [Asian cuisine](#asian-cuisine)
+  - [Vegan cuisine](#vegan-cuisine)
 
 ## Food-related projects
 
@@ -89,6 +91,12 @@
 - [fitness](https://github.com/jamesflorentino/fitness) - Some of @jamesflorentino mumbo jumbo about training and nutrition. Take them with a grain of salt.
 - [affordable-whey](https://github.com/prkeshri/affordable-whey) - Can be used to calculate out of a few available Whey proteins. which one is most affordable in terms of Cost per Serving. Also gives. total servings.
 
+n## Plant-Based / Vegan
+
+- [HappyCow](https://www.happycow.net) - Find vegan, vegetarian, and plant-based restaurants worldwide.
+- [abillion](https://www.abillion.com) - Community-driven reviews for vegan products and restaurants.
+- [Open Food Facts](https://world.openfoodfacts.org) - Free, open database of food products from around the world with detailed nutritional information and ingredient analysis.
+- [Daily Dozen](https://nutritionfacts.org/daily-dozen/) - Dr. Greger's evidence-based daily checklist of foods to eat, with open-source apps for [Android](https://github.com/nutritionfactsorg/daily-dozen-android) and [iOS](https://github.com/nutritionfactsorg/daily-dozen-ios).
 ## Things to read
 
 ### Books
@@ -109,6 +117,7 @@
 - [Child Nutrition and Cooking](https://www.coursera.org/learn/childnutrition) - This course examines contemporary child nutrition and the impact of the individual decisions made by each family. The health risks associated with obesity in childhood are also discussed.
 - [Science & Cooking: From Haute Cuisine to Soft Matter Science (chemistry)](https://www.edx.org/course/science-cooking-from-haute-cuisine-to-soft-matter-science-chemistry) - Top chefs and Harvard researchers explore how everyday cooking and haute cuisine can illuminate basic principles in chemistry, physics, and engineering.
 - [Science & Cooking: From Haute Cuisine to Soft Matter Science (physics)](https://www.edx.org/course/science-cooking-from-haute-cuisine-to-soft-matter-science-physics-2) - Part 2 of the class above, learn about elasticity, viscosity, mayonnaise, baking, and more!
+- [Plant-Based Nutrition](https://nutritionstudies.org/courses/plant-based-nutrition/) - Certificate program from the T. Colin Campbell Center for Nutrition Studies in partnership with eCornell, covering the science of plant-based eating.
 
 ## Videos
 
@@ -120,6 +129,11 @@
 
 - [Peaceful Cuisine](https://www.youtube.com/user/ryoya1983) - Asian cooking, relaxing and beautiful
 - [Asian at Home](https://www.youtube.com/user/SeonkyoungLongest) - She talks too much but the food looks great
+n### Vegan cuisine
+
+- [Pick Up Limes](https://www.youtube.com/@PickUpLimes) - Dietitian-created plant-based recipes and nutritional science.
+- [BOSH!](https://www.youtube.com/@BOSH) - Quick and creative plant-based comfort food recipes.
+- [Rainbow Plant Life](https://www.youtube.com/c/RainbowPlantLife) - Elevated vegan cooking with globally inspired recipes.
 
 
 ## Contribute
