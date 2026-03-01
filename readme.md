@@ -22,6 +22,7 @@
 ## Food-related projects
 
 - [is-vegan](https://github.com/hmontazeri/is-vegan) - Is-Vegan helps you to find out which food ingredients are vegan / non-vegan.
+- [HappyCow](https://www.happycow.net/) - Global directory of 230K+ plant-based and vegan-friendly restaurants with ratings and reviews. Mobile apps for iOS and Android.
 - [FoodTrucks](https://github.com/prakhar1989/FoodTrucks) - San Francisco's finger-licking street food now at your fingertips.
 - [Growstuff](https://github.com/Growstuff/growstuff) - Open data project for small-scale food growers.
 - [myfood-app](https://github.com/MickaelGandecki/myfood-app) - Smart Greenhouse Management.
@@ -65,6 +66,8 @@
 
 ## API for Food services
 
+- [Open Food Facts](https://world.openfoodfacts.org/) - Open, crowdsourced database of 3M+ food products with nutritional data, ingredient lists, and allergen information. RESTful API and downloadable datasets.
+- [Cronometer](https://cronometer.com/) - Nutrition tracking app with comprehensive micronutrient data. Integrates USDA FoodData Central and supports CSV export.
 - [node-deliveroo](https://github.com/jzarca01/node-deliveroo) - Unofficial Node API for Deliveroo.
 - [tacofancy-api](https://github.com/evz/tacofancy-api) - An API for the repo Tacofancy.
 - [Spoonacular](https://spoonacular.com/food-api) -
