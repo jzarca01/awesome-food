@@ -42,6 +42,7 @@
 - [Tandoor Recipes](https://github.com/TandoorRecipes/recipes) - Self-hosted recipe manager with meal planning, shopping lists, and cookbook organization.
 - [grocy](https://github.com/grocy/grocy) - Web-based self-hosted groceries and household management solution with recipe and meal planning features.
 - [Nextcloud Cookbook](https://github.com/nextcloud/cookbook) - Recipe management app for the Nextcloud platform.
+- [DishRoll](https://github.com/samirasadov28-code/DishRoll) - AI-powered weekly meal planner that generates personalised 7-day menus based on cuisine preferences, dietary needs, and grocery budget. Exports smart shopping lists to Alexa.
 - [Recipya](https://github.com/reaper47/recipya) - A clean, simple and powerful self-hosted recipe manager.
 - [Open Food Facts](https://github.com/openfoodfacts/openfoodfacts-server) - A collaborative, free and open database of food products from around the world.
 - [Veganify](https://github.com/frontendnetwork/veganify) - A web app to scan EAN barcodes and check if a product is vegan-friendly, with a database of over 3 million products.
