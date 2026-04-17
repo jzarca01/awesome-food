@@ -46,6 +46,7 @@
 - [Open Food Facts](https://github.com/openfoodfacts/openfoodfacts-server) - A collaborative, free and open database of food products from around the world.
 - [Veganify](https://github.com/frontendnetwork/veganify) - A web app to scan EAN barcodes and check if a product is vegan-friendly, with a database of over 3 million products.
 - [RasPiBrew](https://github.com/steve71/RasPiBrew) - Raspberry Pi Temperature Controller for homebrewing and sous vide cooking .
+- [DishRoll](https://github.com/samirasadov28-code/DishRoll) - AI-powered weekly meal planner that generates personalized 7-day menus based on cuisine preferences, dietary filters, and grocery budget, with a smart shopping list export.
 
 ## Cookbooks
 
