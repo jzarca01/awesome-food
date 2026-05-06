@@ -67,7 +67,7 @@
 - [bagels](https://github.com/andrewkern/bagels) - open source bagel recipe; let's raise the quality of bagels worldwide !
 - [HowToCook](https://github.com/Anduin2017/HowToCook) - A programmer's guide to cooking at home with step-by-step recipes (Simplified Chinese).
 - [the-sourdough-framework](https://github.com/hendricius/the-sourdough-framework) - Open source book dedicated to helping you make the best possible sourdough bread at home.
-
+- [OneTapRecipes](https://onetaprecipes.com/) - Visual recipe card website with 20,000+ tested recipes across 20 categories — browse by ingredient, cuisine, and dietary need.
 ## Plant-Based
 
 - [vegan_recipes](https://github.com/rochacbruno/vegan_recipes) - A collection of 100% vegan recipes.
