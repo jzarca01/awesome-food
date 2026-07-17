@@ -88,6 +88,7 @@
 - [Spoonacular](https://spoonacular.com/food-api) -
   Spoonacular offers its food parsing, matching, and searching technology for businesses and developers to create outstanding applications.
 - [Edamam](https://developer.edamam.com/) - API developer portal for Nutrition Analysis, Food Database Lookup, Recipe Search API and others.
+- [DietlyAPI](https://www.getdietly.com/api) - Food & nutrition API with 4.2M+ foods, macros, micronutrients and barcode lookup. Free tier with instant API key.
 - [RecipePuppy](http://www.recipepuppy.com/about/api/) - This api lets you search through recipe puppy database of over a million recipes by keyword and/or by search query.
 - [node-ubereats](https://github.com/jzarca01/node-ubereats) - A work in progress API for Uber Eats.
 - [node-simplefeast](https://github.com/jzarca01/node-simplefeast) - An API Wrapper for the app Simple Feast.
