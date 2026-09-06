@@ -38,6 +38,7 @@
 - [Genetic-Soylent](https://github.com/nick/genetic-soylent) - This project generates soylent recipes based on genetic algorithms.
 - [hasgluten](https://github.com/hasgluten/hasgluten) - Quick and Accurate Gluten-Free Foods List.
 - [diy-proofing-box](https://github.com/hendricius/diy-proofing-box) - Build your own DIY proofing box for sourdough, yoghurt and pizza. Featuring a raspberry pi and night vision.
+- [starter-check](https://github.com/janibert1/starter-check) - Free sourdough starter mold/hooch diagnostic quiz, sourced from King Arthur Baking. No signup.
 - [Mealie](https://github.com/hay-kot/mealie) - Mealie is a self hosted recipe manager and meal planner.
 - [Tandoor Recipes](https://github.com/TandoorRecipes/recipes) - Self-hosted recipe manager with meal planning, shopping lists, and cookbook organization.
 - [grocy](https://github.com/grocy/grocy) - Web-based self-hosted groceries and household management solution with recipe and meal planning features.
