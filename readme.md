@@ -91,6 +91,7 @@
 - [RecipePuppy](http://www.recipepuppy.com/about/api/) - This api lets you search through recipe puppy database of over a million recipes by keyword and/or by search query.
 - [node-ubereats](https://github.com/jzarca01/node-ubereats) - A work in progress API for Uber Eats.
 - [node-simplefeast](https://github.com/jzarca01/node-simplefeast) - An API Wrapper for the app Simple Feast.
+- [TableJourney](https://tablejourney.com/agents/) - Free REST API and remote MCP server with verified restaurants, markets and street food in 206 cities, each with provenance (source URL, date checked, open status) and opening hours, plus food festival dates. No key needed.
 
 ### Only available for French market
 
