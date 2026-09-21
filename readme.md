@@ -1,4 +1,4 @@
-# Awesome Food [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+﻿# Awesome Food [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ![Awesome-food](awesome_food.png)
 
@@ -22,6 +22,7 @@
   - [Plant-based cuisine](#plant-based-cuisine)
 
 ## Food-related projects
+- [hellofresh-deals-promo-radar](https://github.com/longlicode/hellofresh-deals-promo-radar) - Open-source meal-kit promo radar: scrapes official public pages into CSV/JSON and a static compare site (https://mealkitdeals.com/).
 
 - [is-vegan](https://github.com/hmontazeri/is-vegan) - Is-Vegan helps you to find out which food ingredients are vegan / non-vegan.
 - [FoodTrucks](https://github.com/prakhar1989/FoodTrucks) - San Francisco's finger-licking street food now at your fingertips.
@@ -79,7 +80,7 @@
 
 - [awesome-kacchi](https://github.com/s4kibs4mi/awesome-kacchi) - A curated list of awesome Kacchi Biryani available throughout the world.
 - [awesome-berlin](https://github.com/AwesomeCities/awesome-berlin) - A curated list of Berlin's awesomeness.
-- [Berlín para mexicanos](https://github.com/carlosyslas/berlin-para-mexicanos) - Berlin guide for mexicans. 
+- [Berl铆n para mexicanos](https://github.com/carlosyslas/berlin-para-mexicanos) - Berlin guide for mexicans. 
 
 ## API for Food services
 
@@ -156,5 +157,5 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
 
-To the extent possible under law. Jérémie Zarca has waived all copyright and
+To the extent possible under law. J茅r茅mie Zarca has waived all copyright and
 related or neighboring rights to this work.
