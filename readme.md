@@ -47,6 +47,8 @@
 - [Veganify](https://github.com/frontendnetwork/veganify) - A web app to scan EAN barcodes and check if a product is vegan-friendly, with a database of over 3 million products.
 - [RasPiBrew](https://github.com/steve71/RasPiBrew) - Raspberry Pi Temperature Controller for homebrewing and sous vide cooking .
 
+- [Minbao Feeding Tools](https://github.com/yy520-xx/minbao-feeding-tools) - Web-based feeding tracker for babies with CMPA (cow's milk protein allergy), featuring ingredient allergen label scanning, solid food introduction logging, and nutrition tracking.
+
 ## Cookbooks
 
 - [tasty-cooking](https://github.com/douvy/tasty-cooking) - A collection of high-quality and easy-to-follow recipes with best-in-class minimalist responsive design, focused on speed, accessibility, and visual appeal.
