@@ -37,6 +37,7 @@
 - [Auto-Soylent](https://github.com/nick/auto-soylent) - Automatic Soylent recipe generator.
 - [Genetic-Soylent](https://github.com/nick/genetic-soylent) - This project generates soylent recipes based on genetic algorithms.
 - [hasgluten](https://github.com/hasgluten/hasgluten) - Quick and Accurate Gluten-Free Foods List.
+- [minbao-feeding-tools](https://github.com/yy520-xx/minbao-feeding-tools) - Open-source toolset for babies with cow's milk protein allergy: ingredient label checker, food safety traffic-light guide, and feeding tracker.
 - [diy-proofing-box](https://github.com/hendricius/diy-proofing-box) - Build your own DIY proofing box for sourdough, yoghurt and pizza. Featuring a raspberry pi and night vision.
 - [Mealie](https://github.com/hay-kot/mealie) - Mealie is a self hosted recipe manager and meal planner.
 - [Tandoor Recipes](https://github.com/TandoorRecipes/recipes) - Self-hosted recipe manager with meal planning, shopping lists, and cookbook organization.
