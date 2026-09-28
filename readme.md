@@ -91,6 +91,7 @@
 - [RecipePuppy](http://www.recipepuppy.com/about/api/) - This api lets you search through recipe puppy database of over a million recipes by keyword and/or by search query.
 - [node-ubereats](https://github.com/jzarca01/node-ubereats) - A work in progress API for Uber Eats.
 - [node-simplefeast](https://github.com/jzarca01/node-simplefeast) - An API Wrapper for the app Simple Feast.
+- [Noms](https://noms.sh) - Nutrition data API for 3.7M foods and 298K brands across 230 countries, with barcode lookup and up to 177 nutrients per food.
 
 ### Only available for French market
 
