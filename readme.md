@@ -44,6 +44,8 @@
 - [Nextcloud Cookbook](https://github.com/nextcloud/cookbook) - Recipe management app for the Nextcloud platform.
 - [Recipya](https://github.com/reaper47/recipya) - A clean, simple and powerful self-hosted recipe manager.
 - [Open Food Facts](https://github.com/openfoodfacts/openfoodfacts-server) - A collaborative, free and open database of food products from around the world.
+- [Cheese Database](https://cheese-database.com) - Cheese reference encyclopedia by name, milk type, style, and country.
+- [Pasta Database](https://pastadatabase.com) - Pasta shapes with dimensions, cook times, sauce pairings, and substitutes.
 - [Veganify](https://github.com/frontendnetwork/veganify) - A web app to scan EAN barcodes and check if a product is vegan-friendly, with a database of over 3 million products.
 - [RasPiBrew](https://github.com/steve71/RasPiBrew) - Raspberry Pi Temperature Controller for homebrewing and sous vide cooking .
 
