@@ -46,6 +46,7 @@
 - [Open Food Facts](https://github.com/openfoodfacts/openfoodfacts-server) - A collaborative, free and open database of food products from around the world.
 - [Veganify](https://github.com/frontendnetwork/veganify) - A web app to scan EAN barcodes and check if a product is vegan-friendly, with a database of over 3 million products.
 - [RasPiBrew](https://github.com/steve71/RasPiBrew) - Raspberry Pi Temperature Controller for homebrewing and sous vide cooking .
+- [Recall Kitchen](https://recallkitchen.com/) - Free web app to search government recall notices (CPSC, FDA, USDA FSIS, NHTSA, Health Canada) by keyword, UPC, product name, make and model, or photo (beta), and save what you own to see new matches.
 
 ## Cookbooks
 
