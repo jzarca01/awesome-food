@@ -41,6 +41,7 @@
 - [Mealie](https://github.com/hay-kot/mealie) - Mealie is a self hosted recipe manager and meal planner.
 - [Tandoor Recipes](https://github.com/TandoorRecipes/recipes) - Self-hosted recipe manager with meal planning, shopping lists, and cookbook organization.
 - [grocy](https://github.com/grocy/grocy) - Web-based self-hosted groceries and household management solution with recipe and meal planning features.
+- [Usuals](https://github.com/vitofico/usuals) - Offline Android shopping list that remembers quantities from past trips and supports shared lists through an optional self-hosted server.
 - [Nextcloud Cookbook](https://github.com/nextcloud/cookbook) - Recipe management app for the Nextcloud platform.
 - [Recipya](https://github.com/reaper47/recipya) - A clean, simple and powerful self-hosted recipe manager.
 - [Open Food Facts](https://github.com/openfoodfacts/openfoodfacts-server) - A collaborative, free and open database of food products from around the world.
